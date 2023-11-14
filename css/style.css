@@ -18,3 +18,14 @@ html {
     background-color: #F1F2F3;
     color: #212223;
 }
+
+.recipe-list {
+    margin-left: 5vw;
+}
+
+.recipe {
+    box-sizing: border-box;
+    border: 5px solid black;
+    padding: 8px;
+    margin: 1em auto;
+}
